@@ -80,27 +80,6 @@ The goal is to implement and analyze these models using Python.
   * Train a  **Logistic Regression classifier** .
   * Compute  **confusion matrix & performance metrics** .
 
----
-
-## **Project Structure**
-
-```
-ML_HW1/
-│── data/                     # Dataset files
-│── notebooks/                # Jupyter notebooks for implementation
-│── src/                      # Python scripts for regression models
-│   ├── cross_validation.py   # k-Fold Cross-Validation
-│   ├── regularization.py     # Ridge & Lasso Regression
-│   ├── mle_regression.py     # Maximum Likelihood Estimation
-│   ├── exponential_reg.py    # Exponential Regression
-│   ├── linear_regression.py  # Linear Regression (GD & Normal Eq)
-│   ├── logistic_regression.py# Logistic Regression
-│   ├── evaluation.py         # Performance metrics computation
-│── results/                  # Plots and evaluation reports
-│── README.md                 # This README file
-```
-
----
 
 ---
 
